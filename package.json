@@ -1,0 +1,16 @@
+{
+	"author": "Evan Schnabel",
+	"name": "es-censorify",
+	"version": "0.1.1",
+	"description": "Censors words out of text",
+	"main": "censortext",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/eschnabel/garbage"
+	},
+	"keywords": [ "censor", "words" ],
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
