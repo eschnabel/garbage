@@ -1,6 +1,6 @@
 {
 	"author": "Evan Schnabel",
-	"name": "es-censorify",
+	"name": "es1-censorify",
 	"version": "0.1.1",
 	"description": "Censors words out of text",
 	"main": "censortext",
